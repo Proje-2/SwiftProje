@@ -4,6 +4,11 @@
 <dict>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
+		<key>NSMicrophoneUsageDescription</key>
+		<string>Bu uygulama sesli komutları almak için mikrofonu kullanır.</string>
+		<key>NSCameraUsageDescription</key>
+		<string>Kamerayı test sorularını okumak için kullanıyoruz.
+</string>
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<false/>
 		<key>UISceneConfigurations</key>
